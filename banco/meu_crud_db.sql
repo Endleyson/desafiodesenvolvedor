@@ -6,5 +6,6 @@ CREATE TABLE `cadastros` (
   `data_nascimento` date NOT NULL,
   `sexo_cadastro` varchar(11) NOT NULL,
   `data_cadastro` datetime NOT NULL DEFAULT NOW(),
+  `data_alterada` datetime NOT NULL DEFAULT NOW(),
   PRIMARY KEY (`id_cadastro`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
