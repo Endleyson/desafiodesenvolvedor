@@ -11,9 +11,8 @@
  	<script>
  		
  		$(document).ready( function () {
-		    $('#cursos').DataTable();
-		    $('#alunos').DataTable();
-		    $('#matriculas').DataTable();
+		    $('#cadastro').DataTable();
+		    
 		} );
  	</script>
 

@@ -1,6 +1,6 @@
 <a class="btn btn-success" href="?pagina=inserir_cadastro">Inserir novo cadastro</a>
 
-<table class="table table-hover table-striped" id="alunos">
+<table class="table table-hover table-striped" id="cadastro">
 	<thead>
 		<tr>
 			<th>Nome</th>
